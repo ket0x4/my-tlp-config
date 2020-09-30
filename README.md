@@ -9,3 +9,5 @@ To use this config:
 2. Copy tlp.conf to /etc/ (`su -c "cp tlp.conf /etc/"`)
 3. `systemctl enable tlp && systemctl start tlp`
 4. `su -c "tlp start"`
+
+For more information about creating your own config. visit: https://linrunner.de/tlp/introduction.html
